@@ -14,5 +14,6 @@ This is a simple Bash script that monitors system resources.
 
 ## Run Script
 
-chmod +x 
+chmod +x monitor.sh
+
 ./monitor.sh
